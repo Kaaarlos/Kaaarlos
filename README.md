@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @Kaaarlos
+- 
+- 👀 I’m interested in:
+-   🔗 - 3D design (Blender)
+-   🎥 - Animation
+-   ⌨ - Programing
+-   👾 - VideoGames (Unity)
+-   
+- 🌱 I’m currently learning:
+-   🟡 -JavaScript
+-   🐍 - Python
+-   🟥 - Laravel
+-
+- 💞️ I’m looking to collaborate on:
+-   🎯 -  New Projects
+-   
+- 📫 How to reach me 
+-    🐤🔵 - @Carlos17LH
+-    💌 - zapCar17@gmail.com
