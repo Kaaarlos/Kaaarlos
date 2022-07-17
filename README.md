@@ -7,7 +7,8 @@
 -   👾 - VideoGames (Unity)
 -   
 - 🌱 I’m currently learning:
--   🟡 -JavaScript
+-   🟡 - JavaScript
+-   ⚛  -  React
 -   🐍 - Python
 -   🟥 - Laravel
 -
