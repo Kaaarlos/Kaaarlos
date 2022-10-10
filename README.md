@@ -11,6 +11,7 @@
 -   ⚛  -  React
 -   🐍 - Python
 -   🟥 - Laravel
+-   🔵 - Php
 -
 - 💞️ I’m looking to collaborate on:
 -   🎯 -  New Projects
