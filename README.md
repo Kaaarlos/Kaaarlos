@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Kaaarlos<br><br>👀 I’m interested in:<br>   🔗 - 3D design (Blender)<br>   🎥 - Animation<br>   ⌨ - Programing<br>   👾 - VideoGames (Unity)<br><br>🌱 I’m currently learning:<br>   🟡 - JavaScript<br>    ⚛ - React<br>   🐍 - Python<br>   🟥 - Laravel<br>   🔵 - Php<br><br>💞️ I’m looking to collaborate on:<br>   🎯 - New Projects<br>   📫 How to reach me<br>   🐤🔵 - @Carlos17LH<br>   💌 - ca991467@gmail.com
+👋 Hi, I’m @Kaaarlos<br><br>👀 I’m interested in:<br>   🔗 - 3D design (Blender)<br>   🎥 - Animation<br>   ⌨ - Programing<br>   👾 - VideoGames (Unity)<br><br>🌱 I’m currently learning:<br>   🟡 - JavaScript<br>    ⚛ - React<br>   🐍 - Python<br>   🔵 - React<br>   🔵 - Php<br><br>💞️ I’m looking to collaborate on:<br>   🎯 - New Projects<br>   📫 How to reach me<br>   🐤🔵 - @Carlos17LH<br>   💌 - ca991467@gmail.com
 
 
 ## 🌐 Socials:
